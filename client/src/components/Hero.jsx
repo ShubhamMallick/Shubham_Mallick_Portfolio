@@ -1,7 +1,6 @@
 import { motion, useScroll, useTransform } from 'framer-motion'
 import { Github, FileText, FolderOpen, ChevronDown, Code2, Linkedin, Database } from 'lucide-react'
 import { useRef } from 'react'
-import Robot3D from './Robot3D'
 
 export default function Hero() {
   const ref = useRef(null)
@@ -24,9 +23,6 @@ export default function Hero() {
 
   return (
     <section ref={ref} className="min-h-screen flex items-center justify-center pt-16 relative overflow-hidden">
-      {/* 3D Robot Background */}
-      <Robot3D />
-
       {/* Animated Background Overlay */}
       <div className="absolute inset-0 bg-gradient-to-br from-slate-950/80 via-slate-950/60 to-transparent pointer-events-none" />
       
