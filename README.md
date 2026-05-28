@@ -100,8 +100,6 @@ transition={{ duration: 0.6, delay: 0.2 }}
 
 ## 📦 Deployment
 
-🔗 **Live Site:** [https://shubham-mallick-portfolio.onrender.com/](https://shubham-mallick-portfolio.onrender.com/)
-
 ### Deploy to Vercel (Recommended)
 ```bash
 npm run build
