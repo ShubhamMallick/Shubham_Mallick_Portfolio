@@ -2,9 +2,7 @@
 
 A modern, responsive portfolio website built with **React**, **Tailwind CSS**, and **Framer Motion**.
 
-## 🌐 Live Demo
-
-[**View Live Portfolio →**](https://shubham-mallick-portfolio.onrender.com/)
+### 🌐 [Live Demo](https://shubham-mallick-portfolio.onrender.com/)
 
 ## ✨ Features
 
