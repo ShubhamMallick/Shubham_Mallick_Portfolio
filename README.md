@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website built with **React**, **Tailwind CSS**, and **Framer Motion**.
 
+### 🌐 [Live Demo](https://shubham-mallick-portfolio.onrender.com/)
+
 ## ✨ Features
 
 - 🎨 **Modern Design** - Dark theme with gradient accents
@@ -97,6 +99,8 @@ transition={{ duration: 0.6, delay: 0.2 }}
 ```
 
 ## 📦 Deployment
+
+🔗 **Live Site:** [https://shubham-mallick-portfolio.onrender.com/](https://shubham-mallick-portfolio.onrender.com/)
 
 ### Deploy to Vercel (Recommended)
 ```bash
